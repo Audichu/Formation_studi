@@ -1,0 +1,2 @@
+highpoly : 1 758 752 poly
+lowpoly : 17 357 poly
